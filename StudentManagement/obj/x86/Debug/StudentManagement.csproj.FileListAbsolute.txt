@@ -1,0 +1,53 @@
+c:\users\hunter\documents\visual studio 2010\Projects\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe
+c:\users\hunter\documents\visual studio 2010\Projects\StudentManagement\StudentManagement\bin\Debug\StudentManagement.pdb
+c:\users\hunter\documents\visual studio 2010\Projects\StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.Form1.resources
+c:\users\hunter\documents\visual studio 2010\Projects\StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.Properties.Resources.resources
+c:\users\hunter\documents\visual studio 2010\Projects\StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.csproj.GenerateResource.Cache
+c:\users\hunter\documents\visual studio 2010\Projects\StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.exe
+c:\users\hunter\documents\visual studio 2010\Projects\StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.pdb
+c:\users\hunter\documents\visual studio 2010\Projects\StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.View.AddStudent.resources
+c:\users\hunter\documents\visual studio 2010\Projects\StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.View.StudentList.resources
+C:\Users\amirs\Desktop\StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.exe
+C:\Users\amirs\Desktop\StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.pdb
+C:\Users\amirs\Desktop\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe
+C:\Users\amirs\Desktop\StudentManagement\StudentManagement\bin\Debug\StudentManagement.pdb
+C:\Users\amirs\Desktop\StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.csprojResolveAssemblyReference.cache
+C:\Users\amirs\Desktop\StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.View.AddStudent.resources
+C:\Users\amirs\Desktop\StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.Form1.resources
+C:\Users\amirs\Desktop\StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.Properties.Resources.resources
+C:\Users\amirs\Desktop\StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.View.StudentList.resources
+C:\Users\amirs\Desktop\StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.csproj.GenerateResource.Cache
+C:\Users\Rahadur\Desktop\StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.exe
+C:\Users\Rahadur\Desktop\StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.pdb
+C:\Users\Rahadur\Desktop\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe
+C:\Users\Rahadur\Desktop\StudentManagement\StudentManagement\bin\Debug\StudentManagement.pdb
+C:\Users\Rahadur\Desktop\StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.csprojResolveAssemblyReference.cache
+C:\Users\Rahadur\Desktop\StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.View.AddStudent.resources
+C:\Users\Rahadur\Desktop\StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.Form1.resources
+C:\Users\Rahadur\Desktop\StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.Properties.Resources.resources
+C:\Users\Rahadur\Desktop\StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.View.StudentList.resources
+C:\Users\Rahadur\Desktop\StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.csproj.GenerateResource.Cache
+C:\Users\Rahadur\Desktop\StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.View.UpdateForm.resources
+C:\Users\ME\Desktop\C#\StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.exe
+C:\Users\ME\Desktop\C#\StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.pdb
+C:\Users\ME\Desktop\C#\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe
+C:\Users\ME\Desktop\C#\StudentManagement\StudentManagement\bin\Debug\StudentManagement.pdb
+C:\Users\ME\Desktop\C#\StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.csprojResolveAssemblyReference.cache
+C:\Users\ME\Desktop\C#\StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.View.AddStudent.resources
+C:\Users\ME\Desktop\C#\StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.Form1.resources
+C:\Users\ME\Desktop\C#\StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.Properties.Resources.resources
+C:\Users\ME\Desktop\C#\StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.View.StudentList.resources
+C:\Users\ME\Desktop\C#\StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.View.UpdateForm.resources
+C:\Users\ME\Desktop\C#\StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\new StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\new StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.View.AddStudent.resources
+C:\Users\PC\Desktop\new StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.Form1.resources
+C:\Users\PC\Desktop\new StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.Properties.Resources.resources
+C:\Users\PC\Desktop\new StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.View.StudentList.resources
+C:\Users\PC\Desktop\new StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.View.UpdateForm.resources
+C:\Users\PC\Desktop\new StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\new StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\new StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.exe
+C:\Users\PC\Desktop\new StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.pdb
+C:\Users\PC\Desktop\new StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe
+C:\Users\PC\Desktop\new StudentManagement\StudentManagement\bin\Debug\StudentManagement.pdb
